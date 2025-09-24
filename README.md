@@ -7,7 +7,7 @@ Web Developer
 I'am a Student!
 
 * 🌍  I'm based in Thailand
-* 🖥️  See my portfolio at [My Porofolio](https://krypton-olive.vercel.app/)
+* 🖥️  See my portfolio at [My Porofolio]()
 * 🧠  I'm learning React.js
 
 ### Skills
