@@ -58,8 +58,3 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouzad.maurodesouzad&left_text=Hi!"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/maurodesouzad/maurodesouzad/output/snake.svg" alt="Snake animation" />
-
-###
